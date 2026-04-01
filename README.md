@@ -2,8 +2,7 @@
 I code to build robust AI for healthcare.
 
 ## 🌐 To chat!
-- [LinkedIn](https://www.linkedin.com/in/phanda1997/)
-- [Gmail](drpalakhanda@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/phanda1997/), [Gmail](drpalakhanda@gmail.com)
 
 ## 💻 Comfortable in Following Tech Stacks:
 
