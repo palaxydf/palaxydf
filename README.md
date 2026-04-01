@@ -1,8 +1,7 @@
 # Hi there 👋
 I code to build robust AI for healthcare. To chat, [LinkedIn](https://www.linkedin.com/in/phanda1997/), [Gmail](mailto:drpalakhanda@gmail.com)
 
-# Tech Stacks I use:
-
+# Tech stacks I use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
