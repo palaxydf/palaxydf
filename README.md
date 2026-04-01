@@ -1,5 +1,5 @@
 # Hi there 👋
-I code to build robust AI for healthcare. To chat- [LinkedIn](https://www.linkedin.com/in/phanda1997/), [Gmail](mailto:drpalakhanda@gmail.com)
+I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linkedin.com/in/phanda1997/), [Gmail](mailto:drpalakhanda@gmail.com)
 
 # Tech stacks I use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
