@@ -1,11 +1,11 @@
 ## Hi there 👋
 I code to build robust AI for healthcare.
 
-## 🌐 Contact me here
+## 🌐 To chat!
 - [LinkedIn](https://www.linkedin.com/in/phanda1997/)
 - [Gmail](drpalakhanda@gmail.com)
 
-## 💻 Comfortable in Following Tech Stacks
+## 💻 Comfortable in Following Tech Stacks:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
