@@ -1,5 +1,55 @@
-# Hi there 👋
+### Hi there 👋
 I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linkedin.com/in/phanda1997/), [Gmail](mailto:drpalakhanda@gmail.com)
+
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+**Competitions:**  
+[ICPR 2026 RARE-VISION](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858) • Capsule anatomy & abnormality detection  
+[Capsule Vision 2024](https://arxiv.org/abs/2408.04940) • Multi-abnormality classification  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Workshop:**  
+[Machine Intelligence in Biomedical Data Quality](https://sites.google.com/view/workshop-machine-intelligence/home)
+
+**Apps:**  
+[BRISCO](https://triesbrisco.streamlit.app/Scoring) • Breast MRI segmentation scoring  
+[AI-KODA](https://github.com/palaxydf/AI-KODA) • Capsule cleanliness scoring  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Models:**  
+[Breast MRI U-Net](https://github.com/FloXyPython/MRI_BreastSeg) • 4-vendor robust  
+[Benchmarking Suite](https://github.com/palaxydf/Benchmarking-Codes-of-the-WCEBleedGen-dataset)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-FF6F00?style=flat&logo=pytorch&logoColor=white)
+![DICOM](https://img.shields.io/badge/DICOM-005571?style=flat)
+![NIfTI](https://img.shields.io/badge/NIfTI-009688?style=flat)
+
+➡️ Check pinned repos below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Playing with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
