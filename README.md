@@ -1,10 +1,6 @@
 ### Hi there 👋
 I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linkedin.com/in/phanda1997/), [Gmail](mailto:drpalakhanda@gmail.com)
 
-# Hi there 👋  
-I code to build robust AI for healthcare.  
-[LinkedIn](https://www.linkedin.com/in/phanda1997/) • [Gmail](mailto:drpalakhanda@gmail.com)
-
 **Playing with:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
