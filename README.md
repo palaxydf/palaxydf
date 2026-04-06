@@ -47,7 +47,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 
 [Machine Intelligence in Quality Assessment of Biomedical Data](https://sites.google.com/view/workshop-machine-intelligence/home): A workshop uniting medicine, industry, and academia to explore biomedical data quality, annotator guidance, and optimal data for AI in healthcare.
 
-### 📌 For more Check pinned repositories ↓
+**📌 For more: Check pinned repositories ↓**
 
 </p>
 
