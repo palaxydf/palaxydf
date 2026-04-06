@@ -1,6 +1,10 @@
 ### Hi there 👋
 I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linkedin.com/in/phanda1997/), [Gmail](mailto:drpalakhanda@gmail.com)
 
+# Hi there 👋  
+I code to build robust AI for healthcare.  
+[LinkedIn](https://www.linkedin.com/in/phanda1997/) • [Gmail](mailto:drpalakhanda@gmail.com)
+
 **Playing with:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
@@ -12,9 +16,10 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <tr>
 <td width="50%" valign="top">
 
-**Competitions organized**  
-<sub>
-  
+**Competitions organized**
+
+<p>
+
 [ICPR 2026 RARE-VISION Competition](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858): A competition showcasing difficulties in accurate detection of anatomy and abnormalities in sequential capsule endoscopy frames.  
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
@@ -22,6 +27,9 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
 
+</p>
+
+<p>
 
 [Capsule Vision 2024 Competition](https://arxiv.org/abs/2408.04940): Multi-abnormality classification in sequential or non-sequential capsule endoscopy frames is not easy!  
 
@@ -35,21 +43,23 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/pickle-3776AB?style=flat"/>
 
-</sub>
+</p>
 
-**Workshop organized**  
-<sub>
+**Workshop organized**
+
+<p>
 
 [Machine Intelligence in Quality Assessment of Biomedical Data](https://sites.google.com/view/workshop-machine-intelligence/home): A workshop uniting medicine, industry, and academia to explore biomedical data quality, annotator guidance, and optimal data for AI in healthcare.
 
-</sub>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-**Web applications**  
-<sub>
+**Web applications**
+
+<p>
 
 [Breast MRI Segmentation Scoring (BRISCO)](https://triesbrisco.streamlit.app/Scoring): Plug-and-Play tool to score Breast MRI manual and AI generated segmentations.  
 
@@ -59,16 +69,20 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/NiBabel-4CAF50?style=flat"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
 
+</p>
+
+<p>
 
 [Artificial Intelligence Korea-Canada (AI-KODA)](https://github.com/palaxydf/AI-KODA): Plug-and-Play tool to score capsule endoscopy frames for clealiness assessment  
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
-</sub>
+</p>
 
-**AI models**  
-<sub>
+**AI models**
+
+<p>
 
 [Custom Unet for Whole breast MRI Segmentation](https://github.com/FloXyPython/MRI_BreastSeg ): A model robust on 4 vendor-independent datasets.  
 
@@ -78,6 +92,9 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/DICOM-005571?style=flat"/>
 <img src="https://img.shields.io/badge/PyRadiomics-8E44AD?style=flat"/>
 
+</p>
+
+<p>
 
 [A way to benmarch classification, segmentation and detection models](https://github.com/palaxydf/Benchmarking-Codes-of-the-WCEBleedGen-dataset)
 
@@ -88,7 +105,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat"/>
 <img src="https://img.shields.io/badge/Ultralytics-111111?style=flat"/>
 
-</sub>
+</p>
 
 </td>
 </tr>
