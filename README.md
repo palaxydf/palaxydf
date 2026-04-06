@@ -10,7 +10,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 
 #### Relevant projects and their stacks:
 #### Competitions organized
-[ICPR 2026 RARE-VISION Competition](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858): A competition showcasing difficulies in accurate classification of anatomy and abnormalities in sequential capsule endoscopy frames.
+[ICPR 2026 RARE-VISION Competition](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858): A competition showcasing difficulties in accurate classification of anatomy and abnormalities in sequential capsule endoscopy frames.
 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
