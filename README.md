@@ -13,6 +13,8 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <td width="50%" valign="top">
 
 **Competitions organized**  
+<sub>
+  
 [ICPR 2026 RARE-VISION Competition](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858): A competition showcasing difficulties in accurate detection of anatomy and abnormalities in sequential capsule endoscopy frames.  
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
@@ -32,14 +34,22 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/pickle-3776AB?style=flat"/>
 
+</sub>
+
 **Workshop organized**  
+<sub>
+
 [Machine Intelligence in Quality Assessment of Biomedical Data](https://sites.google.com/view/workshop-machine-intelligence/home): A workshop uniting medicine, industry, and academia to explore biomedical data quality, annotator guidance, and optimal data for AI in healthcare.
+
+</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
 **Web applications**  
+<sub>
+
 [Breast MRI Segmentation Scoring (BRISCO)](https://triesbrisco.streamlit.app/Scoring): Plug-and-Play tool to score Breast MRI manual and AI generated segmentations.  
 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
@@ -53,7 +63,11 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
+</sub>
+
 **AI models**  
+<sub>
+
 [Custom Unet for Whole breast MRI Segmentation](https://github.com/FloXyPython/MRI_BreastSeg ): A model robust on 4 vendor-independent datasets.  
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
@@ -70,6 +84,8 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat"/>
 <img src="https://img.shields.io/badge/Ultralytics-111111?style=flat"/>
+
+</sub>
 
 </td>
 </tr>
