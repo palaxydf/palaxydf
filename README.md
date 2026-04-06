@@ -10,7 +10,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 
 #### Relevant projects and their stacks:
 #### Competitions organized
-[ICPR 2026 RARE-VISION Competition](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858)
+[ICPR 2026 RARE-VISION Competition](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858): 
 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -31,10 +31,24 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pickle](https://img.shields.io/badge/pickle-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### Workshop organized
+#### Workshop organized 
 [Machine Intelligence in Quality Assessment of Biomedical Data](https://sites.google.com/view/workshop-machine-intelligence/home)
-- Web applications
+#### Web applications
+[BRISCO](https://triesbrisco.streamlit.app/Scoring)
 
-- AI models
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NiBabel](https://img.shields.io/badge/NiBabel-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+[AI-KODA](https://github.com/palaxydf/AI-KODA)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+#### AI models
+
 
  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
