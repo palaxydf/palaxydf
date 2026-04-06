@@ -19,7 +19,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
-[Capsule Vision 2024 Competition](https://arxiv.org/abs/2408.04940): Multi-abnormality classifcation in sequential or non-sequential capsule endoscopy frames is not easy!
+[Capsule Vision 2024 Competition](https://arxiv.org/abs/2408.04940): Multi-abnormality classification in sequential or non-sequential capsule endoscopy frames is not easy!
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
