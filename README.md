@@ -1,7 +1,7 @@
 # Hi there 👋
 I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linkedin.com/in/phanda1997/), [Gmail](mailto:drpalakhanda@gmail.com)
 
-### Playing with - (since 2019):
+### Playing with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
@@ -10,7 +10,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 
 #### Relevant projects and their stacks:
 #### Competitions organized
-[ICPR 2026 RARE-VISION Competition](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858): A competition showcasing difficulies in accurate classification of anatomy and abnormalities in sequential capsule endoscopy frames
+[ICPR 2026 RARE-VISION Competition](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858): A competition showcasing difficulies in accurate classification of anatomy and abnormalities in sequential capsule endoscopy frames.
 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -69,4 +69,5 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge&logo=python&logoColor=white)
+
 and others.....
