@@ -22,6 +22,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
 
+
 [Capsule Vision 2024 Competition](https://arxiv.org/abs/2408.04940): Multi-abnormality classification in sequential or non-sequential capsule endoscopy frames is not easy!  
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -58,6 +59,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/NiBabel-4CAF50?style=flat"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
 
+
 [Artificial Intelligence Korea-Canada (AI-KODA)](https://github.com/palaxydf/AI-KODA): Plug-and-Play tool to score capsule endoscopy frames for clealiness assessment  
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
@@ -75,6 +77,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 <img src="https://img.shields.io/badge/NIfTI-009688?style=flat"/>
 <img src="https://img.shields.io/badge/DICOM-005571?style=flat"/>
 <img src="https://img.shields.io/badge/PyRadiomics-8E44AD?style=flat"/>
+
 
 [A way to benmarch classification, segmentation and detection models](https://github.com/palaxydf/Benchmarking-Codes-of-the-WCEBleedGen-dataset)
 
