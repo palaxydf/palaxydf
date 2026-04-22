@@ -94,7 +94,7 @@ I code to build robust AI for healthcare. To chat - [LinkedIn](https://www.linke
 
 <p>
 
-[A way to benmarch classification, segmentation and detection models](https://github.com/palaxydf/Benchmarking-Codes-of-the-WCEBleedGen-dataset)
+[A way to benchmark classification, segmentation and detection models](https://github.com/palaxydf/Benchmarking-Codes-of-the-WCEBleedGen-dataset)
 
 <img src="https://img.shields.io/badge/JSON-000000?style=flat"/>
 <img src="https://img.shields.io/badge/XML-005FAD?style=flat"/>
